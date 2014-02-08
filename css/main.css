@@ -1,0 +1,33 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.jumbotron {
+	background-image: url('../img/splash4.jpg');
+	background-position: center -100px;
+}
+
+.mission-statement {
+	color: #ffffff;
+	text-shadow: 1px 0 1px #000000;
+}
+
+ul.home-listing {
+	list-style-type: none;
+
+}
+.home-listing li {
+}
+
+
+
+
+
+
+
+
+
+
+

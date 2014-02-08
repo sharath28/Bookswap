@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Amjad -- Developer and Designer -- https://twitter.com/_mz
+    Sharath -- Developer -- https://twitter.com/sharath28
+    Tyson -- Developer -- https://twitter.com/tysonpais
+
+# THANKS
+
+    Open source technogies and their contributors.
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
